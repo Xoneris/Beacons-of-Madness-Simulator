@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [live site on Vercel]()
+- Live Site URL: [live site on Vercel](https://beacons-of-madness-simulator.vercel.app/)
 - PoE Wiki Page: [PoE Wiki](https://www.poewiki.net/wiki/Beacon_of_Madness)
 
 
