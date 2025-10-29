@@ -194,6 +194,7 @@
     <p>- (80-100)% from <a href="https://www.poewiki.net/wiki/Stasis_Prison" target="_blank">Stasis Prison</a> unique armour</p>
     <p>- (80-100)% from a <a href="https://www.poewiki.net/wiki/Modifier:MercenaryModDebilitate" target="_blank">Infamous modifier</a> on a belt (not obtainable in 3.27)</p>
     <p>- 30% from <a href="https://www.poewiki.net/wiki/Runegraft_of_the_Warp" target="_blank">Runegraft of the Warp</a></p>
+    <p>- 20% from <a href="https://www.poewiki.net/wiki/Arakaali,_Spinner_of_Shadows#Pantheon_powers">upgraded Soul of Arakaali</a></p>
     <p>- (15-20)% from <a href="https://www.poewiki.net/wiki/The_Flow_Untethered" target="_blank">The Flow Untethered</a> unique belt</p>
     <p>- (15-20)% from <a href="https://www.poewiki.net/wiki/The_Torrent%27s_Reclamation" target="_blank">The Torrents Reclamation</a> unique belt</p>
     <p>- (15-20)% from a <a href="https://www.poewiki.net/wiki/Modifier:HasteDebuffsExpireFaster" target="_blank">Haste Watcher's Eye modifier</a></p>
